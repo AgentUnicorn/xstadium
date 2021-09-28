@@ -16,7 +16,7 @@ html, body {
 }
 
 .navbar-nav li a{
-    font-size: 150%;
+    font-size: 120%;
 }
 
 .nav-link {
@@ -44,7 +44,7 @@ html, body {
 
 /* BANNER */
 .banner-area {
-    background: url(./image/slide-1.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(./image/slide-2.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
